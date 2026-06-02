@@ -75,4 +75,4 @@ Bioactivity data (IC₅₀ values) pulled directly from ChEMBL via the `chembl_w
 
 ## Background
 
-EGFR and the ErbB family are among the most studied oncology targets in existence. Drugs like erlotinib, gefitinib, and lapatinib all target this family. QSAR modeling — predicting biological activity from chemical structure — is a foundational technique in computational drug discovery, and this project applies it end-to-end from raw database queries to a validated predictive model.
+EGFR and the ErbB family are among the most studied oncology targets in existence. Drugs like erlotinib, gefitinib, and lapatinib all target this family. QSAR modeling,  predicting biological activity from chemical structure, is a foundational technique in computational drug discovery, and this project applies it end-to-end from raw database queries to a validated predictive model.
